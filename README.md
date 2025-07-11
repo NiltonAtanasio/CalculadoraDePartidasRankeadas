@@ -75,13 +75,13 @@ The challenge required writing a JavaScript function that calculates a player’
 
 ---
 
-🚀 O que foi acrescentado além do desafio | What Was Added Beyond the Challenge
+## 🚀 O que foi acrescentado além do desafio | What Was Added Beyond the Challenge
 Embora o desafio original solicitasse apenas a lógica em JavaScript, o projeto foi expandido com uma interface amigável e validação para entradas numéricas, tornando o uso mais intuitivo.
 
 While the original challenge only required the JavaScript logic, this project was enhanced with a friendly interface and numeric input validation for a better user experience.
 
-🔧 Melhorias implementadas | Improvements Implemented
-HTML:
+## 🔧 Melhorias implementadas | Improvements Implemented
+### HTML:
 
 Campos para entrada de vitórias e derrotas
 
@@ -89,7 +89,7 @@ Botão de cálculo com acionamento da função
 
 Área de exibição do resultado
 
-CSS:
+### CSS:
 
 Estilo moderno e responsivo
 
@@ -97,7 +97,7 @@ Feedback visual para ações do usuário
 
 Cores baseadas no nível alcançado
 
-JavaScript:
+###JavaScript:
 
 Função que calcula o saldo (vitórias - derrotas)
 
@@ -109,7 +109,7 @@ Exibição dinâmica da mensagem final
 
 ---
 
-🧠 Aprendizados | What I Learned
+## 🧠 Aprendizados | What I Learned
 Reforço no uso de funções com parâmetros
 
 Validação e manipulação de inputs numéricos
