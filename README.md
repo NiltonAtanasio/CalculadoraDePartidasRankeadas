@@ -6,6 +6,8 @@ Project developed as part of the second **DIO (Digital Innovation One)** and **S
 
 ---
 
+<img width="733" height="691" alt="desafio" src="https://github.com/user-attachments/assets/79e1f3da-2f18-45fb-91d9-96218bfc4531" />
+
 ---
 
 ## 📌 Sobre o Projeto | About the Project
